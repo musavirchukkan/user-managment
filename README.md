@@ -170,4 +170,4 @@ php artisan queue:retry all
 ## Contact
 
 For questions or clarification:
-Abdul Musavir - abdulmusavirc17@gmail.com
+Abdul Musavir - abdulmusavirc@gmail.com
